@@ -12,4 +12,8 @@
 
 </br>
 
+[<img align="left" alt="https://image.flaticon.com/icons/png/128/145/145807.png" width="22px" src="https://www.linkedin.com/in/prahen-parija-13aa611b4/" />][linkedin]
+
+</br>
+
 <img align="left" src='https://github-readme-stats.vercel.app/api?username=prahenstark&show_icons=true&icon_color=ec1c1c&text_color=ffffff&bg_color=131723'>
