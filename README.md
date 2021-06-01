@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Instagram](https://www.instagram.com/_staaark_/) And [Twitter](https://twitter.com/prahen_parija)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I watch a lot of Movies and TV series.
+
+<img src='https://github-readme-stats.vercel.app/api?username=prahenstark&show_icons=true&theme=gruvbox'>
