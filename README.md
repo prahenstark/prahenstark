@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-<div align="right" style="width:100%;height:0;padding-bottom:41%;position:relative;"><iframe src="https://giphy.com/embed/WJZdOtltegO76" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" ></iframe></div>
+<div align="right" style="width:100%;height:0;padding-bottom:41%;position:relative;"><iframe src="https://giphy.com/embed/WJZdOtltegO76" width="450" height="300"  frameBorder="0" class="giphy-embed" ></iframe></div>
 
 
 <!--<img align="right" src="http://jawnism.tumblr.com/post/46535150192/jarvis-sometimes-you-gotta-run-before-you-can" alt="iron man" width="450" height="300" > -->
