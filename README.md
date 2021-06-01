@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I watch a lot of Movies and TV series.
 
-<img src='https://github-readme-stats.vercel.app/api?username=prahenstark&show_icons=true&text_color=daf7dc&bg_color=151515'>
+<img src='https://github-readme-stats.vercel.app/api?username=prahenstark&show_icons=true&text_color=daf7dc&bg_color=131723'>
