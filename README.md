@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-<iframe src="https://giphy.com/embed/WJZdOtltegO76" width="480" height="195" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/iron-man-robert-downey-jr-marvel-WJZdOtltegO76">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/WJZdOtltegO76" width="480" height="195" frameBorder="0" class="giphy-embed" allowFullScreen>
 
 
 <!--<img align="right" src="http://jawnism.tumblr.com/post/46535150192/jarvis-sometimes-you-gotta-run-before-you-can" alt="iron man" width="450" height="300" > -->
