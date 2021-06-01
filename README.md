@@ -10,10 +10,10 @@
 - ⚡ Fun fact: I watch a lot of Movies and TV series.
 
 </br>
-</br>
 
 <img align="right" src="https://media.giphy.com/media/5oERZQXQrNL7G/giphy.gif" alt="iron man" width="1100" height="300" >
 
+</br>
 </br>
 </br>
 
