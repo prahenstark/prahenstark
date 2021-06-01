@@ -1,10 +1,6 @@
 ### Hi there ! I'm Prahen parija 👋
 
 
-<img align="right" src="https://media.giphy.com/media/5oERZQXQrNL7G/giphy.gif" alt="iron man" width="700" height="300" >
-
-<!--<img align="right" src="http://jawnism.tumblr.com/post/46535150192/jarvis-sometimes-you-gotta-run-before-you-can" alt="iron man" width="600" height="300" > -->
-
 ### Know More About Me
 - 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning how to get along with new Technologies.
@@ -13,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I watch a lot of Movies and TV series.
 
-<img align="right" src="https://media.giphy.com/media/5oERZQXQrNL7G/giphy.gif" alt="iron man" width="900" height="300" >
+<img align="right" src="https://media.giphy.com/media/5oERZQXQrNL7G/giphy.gif" alt="iron man" width="1100" height="300" >
 
 
 <img align="left" src='https://github-readme-stats.vercel.app/api?username=prahenstark&show_icons=true&text_color=daf7dc&bg_color=131723'>
