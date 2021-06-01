@@ -3,7 +3,7 @@
 
 <img align="right" src="https://media.giphy.com/media/5oERZQXQrNL7G/giphy.gif" alt="iron man" width="450" height="300" >
 
-<!--<img align="right" src="http://jawnism.tumblr.com/post/46535150192/jarvis-sometimes-you-gotta-run-before-you-can" alt="iron man" width="450" height="300" > -->
+<!--<img align="right" src="http://jawnism.tumblr.com/post/46535150192/jarvis-sometimes-you-gotta-run-before-you-can" alt="iron man" width="500" height="300" > -->
 
 ### Know More About Me
 - 🔭 I’m currently working on myself.
