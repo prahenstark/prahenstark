@@ -5,10 +5,10 @@
 ### Know More About Me
 - 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning how to get along with new Technologies.
-- 💬 Ask me about Java , Programmig , Drones and Flutter
+- 💬 Ask me about Java , Programmig , Drones and Flutter.
 - 📫 How to reach me: [Instagram](https://www.instagram.com/_staaark_/) And [Twitter](https://twitter.com/prahen_parija)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I watch a lot of Movies and TV series.
+- ⚡ Fun fact: I watch Movies and TV series a lot.
 
 </br>
 
