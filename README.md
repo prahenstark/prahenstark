@@ -1,6 +1,10 @@
 ### Hi there ! I'm Prahen parija 👋
 
 
+
+<img align="right" src="https://media.giphy.com/media/3o7aDaXY5NgnT3JZi8/giphy.gif" alt="iron man" width="500" height="300" >
+
+
 ### Know More About Me
 - 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning how to get along with new Technologies.
@@ -11,7 +15,7 @@
 
 </br>
 
-<img align="right" src="https://media.giphy.com/media/5oERZQXQrNL7G/giphy.gif" alt="iron man" width="1100" height="300" >
+<!-- <img align="right" src="https://media.giphy.com/media/5oERZQXQrNL7G/giphy.gif" alt="iron man" width="1100" height="300" > -->
 
 </br>
 </br>
