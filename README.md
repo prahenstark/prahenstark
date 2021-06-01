@@ -12,7 +12,7 @@
 
 </br>
 
-[<img align="left" alt="https://image.flaticon.com/icons/png/128/145/145807.png" width="22px" src="https://www.linkedin.com/in/prahen-parija-13aa611b4/" />][linkedin]
+[<img align="left" alt="Linked in" width="22px" src="https://image.flaticon.com/icons/png/128/145/145807.png" />][linkedin]
 
 </br>
 
