@@ -13,8 +13,8 @@
 </br>
 
 [<img align="left" alt="Linked in" width="35px" src="https://image.flaticon.com/icons/png/128/145/145807.png" />](https://www.linkedin.com/in/prahen-parija-13aa611b4/)
+[<img align="left" alt="Linked in" width="35px" src="https://image.flaticon.com/icons/png/128/3955/3955024.png" />](https://www.instagram.com/_staaark_/)
 
-</br>
 </br>
 </br>
 
