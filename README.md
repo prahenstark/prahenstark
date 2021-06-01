@@ -2,7 +2,7 @@
 
 
 
-<img align="right" src="https://media.giphy.com/media/3o7aDaXY5NgnT3JZi8/giphy.gif" alt="iron man" width="500" height="300" >
+<img align="right" src="https://media.giphy.com/media/3o7aDaXY5NgnT3JZi8/giphy.gif" alt="iron man" width="600" height="300" >
 
 
 ### Know More About Me
