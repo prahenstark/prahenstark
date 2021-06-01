@@ -9,7 +9,13 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I watch a lot of Movies and TV series.
 
+</br>
+</br>
+
 <img align="right" src="https://media.giphy.com/media/5oERZQXQrNL7G/giphy.gif" alt="iron man" width="1100" height="300" >
+
+</br>
+</br>
 
 
 <img align="left" src='https://github-readme-stats.vercel.app/api?username=prahenstark&show_icons=true&text_color=daf7dc&bg_color=131723'>
