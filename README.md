@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height="300">
+
 ### Know More About Me
 - 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning how to get along with new Technologies.
@@ -13,6 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I watch a lot of Movies and TV series.
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height="300">
 
 <img align="left" src='https://github-readme-stats.vercel.app/api?username=prahenstark&show_icons=true&text_color=daf7dc&bg_color=131723'>
