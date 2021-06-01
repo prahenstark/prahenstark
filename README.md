@@ -1,10 +1,5 @@
 ### Hi there ! I'm Prahen parija 👋
 
-
-**prahenstark/prahenstark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 <div align="right" style="width:100%;height:0;padding-bottom:41%;position:relative;"><iframe src="https://giphy.com/embed/WJZdOtltegO76" width="450" height="300"  frameBorder="0" class="giphy-embed" ></iframe></div>
 
 
