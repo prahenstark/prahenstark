@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 
-<img align="right" src="http://jawnism.tumblr.com/post/46535150192/jarvis-sometimes-you-gotta-run-before-you-can" alt="iron man" width="450" height="300">
+<img align="right" src="http://jawnism.tumblr.com/post/46535150192/jarvis-sometimes-you-gotta-run-before-you-can" alt="iron man" >
 
 ### Know More About Me
 - 🔭 I’m currently working on myself.
