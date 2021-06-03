@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif" width="50" height="50">
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world! Prahen Here ">
 
 <img align="right" src="https://media.giphy.com/media/3o7aDaXY5NgnT3JZi8/giphy.gif" alt="iron man" width="500" height="300" >
 
