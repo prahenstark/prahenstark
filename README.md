@@ -1,6 +1,7 @@
 <img align="center" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world!" width="1000" height="200">
 
 </br>
+</br>
 
 <p align="center"> 
   <strong>Visitors count</strong> <br>
