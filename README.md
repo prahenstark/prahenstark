@@ -1,6 +1,7 @@
 <img align="left" src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world!" width="1000" height="200">
 
 </br>
+</br>
 
 <img align="right" src="https://media.giphy.com/media/3o7aDaXY5NgnT3JZi8/giphy.gif" alt="iron man" width="500" height="300" >
 
@@ -27,5 +28,5 @@
 <img align="left" src='https://github-readme-stats.vercel.app/api?username=prahenstark&show_icons=true&icon_color=ec1c1c&text_color=ffffff&bg_color=131723'>
 
 
-<img align="right" src='https://github-readme-stats.vercel.app/api/top-langs/?username=prahenparija&show_icons=true&icon_color=ec1c1c&text_color=ffffff&bg_color=131723'>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=prahenparija&show_icons=true&icon_color=ec1c1c&text_color=ffffff&bg_color=131723'>
 
