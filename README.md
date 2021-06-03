@@ -11,8 +11,6 @@
 
 <img align="right" src="https://media.giphy.com/media/3o7aDaXY5NgnT3JZi8/giphy.gif" alt="iron man" width="500" height="300" >
 
-</br>
-
 ### Hi there ! I'm Prahen parija 👋
 
 ### Know More About Me
@@ -33,5 +31,5 @@
 </br>
 </br>
 
-<img align="left" src='https://github-readme-stats.vercel.app/api?username=prahenstark&show_icons=true&icon_color=ec1c1c&text_color=ffffff&bg_color=131723'>
+<img align="center" src='https://github-readme-stats.vercel.app/api?username=prahenstark&show_icons=true&icon_color=ec1c1c&text_color=ffffff&bg_color=131723'>
 
