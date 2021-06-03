@@ -6,6 +6,7 @@
   <strong>Visitors count</strong> <br>
   </br>
   <img src="https://profile-counter.glitch.me/prahenstark/count.svg" />
+  </br>
 </p>
 
 <img align="right" src="https://media.giphy.com/media/3o7aDaXY5NgnT3JZi8/giphy.gif" alt="iron man" width="500" height="300" >
@@ -27,8 +28,6 @@
 [<img align="left" alt="Twitter" width="35px" src="https://image.flaticon.com/icons/png/128/145/145812.png" />](https://twitter.com/prahen_parija)
 [<img align="left" alt="Facebook" width="35px" src="https://image.flaticon.com/icons/png/128/1312/1312139.png" />](https://www.facebook.com/prahenparija.parija)
 
-</br>
-</br>
 </br>
 </br>
 
