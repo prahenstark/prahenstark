@@ -11,8 +11,9 @@
 
 <img align="right" src="https://media.giphy.com/media/3o7aDaXY5NgnT3JZi8/giphy.gif" alt="iron man" width="500" height="300" >
 
-### Hi there ! I'm Prahen parija 
-<img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="35"><br>
+### Hi there ! <img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="35"> I'm Prahen parija 
+
+</br>
 
 ### Know More About Me
 - 🔭 I’m currently working on myself.
