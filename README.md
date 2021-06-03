@@ -9,13 +9,11 @@
   <img src="https://profile-counter.glitch.me/prahenstark/count.svg" />
   </br>
   </br>
-  </br>
-  </br>
 </p>
 
 <img align="right" src="https://media.giphy.com/media/3o7aDaXY5NgnT3JZi8/giphy.gif" alt="iron man" width="500" height="300" >
 
-### Hi there ! I'm Prahen parija  <img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="35">
+### Hi there ! I'm Prahen parija  <img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="35" height="35">
 
 ### Know More About Me
 - 🔭 I’m currently working on myself.
