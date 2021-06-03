@@ -13,8 +13,6 @@
 
 ### Hi there ! I'm Prahen parija  <img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="35">
 
-</br>
-
 ### Know More About Me
 - 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning how to get along with new Technologies.
