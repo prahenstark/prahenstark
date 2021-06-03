@@ -3,7 +3,7 @@
 </br>
 
 <p align="center"> 
-  <b>Visitors count<b> <br>
+  <strong>Visitors count</strong> <br>
   </br>
   <img src="https://profile-counter.glitch.me/prahenstark/count.svg" />
 </p>
