@@ -1,6 +1,4 @@
-
-
-<img align="center" src="https://user-images.githubusercontent.com/54349939/120894653-37681100-c637-11eb-858e-4d12e4246e6a.png" alt="Hello world!" width="1000" height="250">
+<img align="https://user-images.githubusercontent.com/54349939/120894827-020ff300-c638-11eb-8713-bb940c567e8b.png" alt="Hello world!" width="1000" height="250">
 
 </br>
 </br>
