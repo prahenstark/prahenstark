@@ -1,6 +1,5 @@
-### Hi there ! I'm Prahen parija  <img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="35" height="30">
+# Hii, I'm [Prahen Parija!](https://prahenstark.github.io/portfolio_website/#/)  <img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="35" height="30">
 
-</br>
 </br>
 
 ![S28GX7](https://user-images.githubusercontent.com/54349939/120895035-de997800-c638-11eb-8423-1c3c850a7de5.png)
