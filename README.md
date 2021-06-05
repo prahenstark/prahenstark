@@ -2,7 +2,6 @@
 <!-- <img align="https://user-images.githubusercontent.com/54349939/120894915-63d05d00-c638-11eb-80fd-be4b6aa50b4b.png" alt="Hello world!" width="1000" height="200"> -->
 
 </br>
-</br>
 
 <p align="center"> 
   <strong>Visitors count</strong> <br>
