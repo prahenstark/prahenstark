@@ -1,4 +1,5 @@
-<img align="https://user-images.githubusercontent.com/54349939/120894915-63d05d00-c638-11eb-80fd-be4b6aa50b4b.png" alt="Hello world!" width="1000" height="200">
+![S28GX7](https://user-images.githubusercontent.com/54349939/120895035-de997800-c638-11eb-8423-1c3c850a7de5.png)
+<!-- <img align="https://user-images.githubusercontent.com/54349939/120894915-63d05d00-c638-11eb-80fd-be4b6aa50b4b.png" alt="Hello world!" width="1000" height="200"> -->
 
 </br>
 </br>
