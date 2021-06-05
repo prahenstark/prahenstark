@@ -27,6 +27,7 @@
 - ⚡ Fun fact: I watch Movies and TV series a lot.
 
 </br>
+</br>
 
 [<img align="left" alt="Linked in" width="35px" src="https://image.flaticon.com/icons/png/128/145/145807.png" />](https://www.linkedin.com/in/prahen-parija-13aa611b4/)
 [<img align="left" alt="Instagram" width="35px" src="https://image.flaticon.com/icons/png/128/3955/3955024.png" />](https://www.instagram.com/_staaark_/)
@@ -41,13 +42,13 @@
 </a>
 
 </br>
-</br>
 
+<!-- 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
 
 <img align="left" src='https://github-readme-stats.vercel.app/api?username=prahenstark&show_icons=true&icon_color=ec1c1c&text_color=ffffff&bg_color=131723'>
 
