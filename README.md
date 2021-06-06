@@ -47,7 +47,7 @@
 
 <img align="left" src='https://github-readme-stats.vercel.app/api?username=prahenstark&show_icons=true&icon_color=ec1c1c&text_color=ffffff&bg_color=131723'>
 
-<a href="https://github.com/iampawan">
+<!-- <a href="https://github.com/iampawan">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prahenstark&layout=compact&show_icons=true&icon_color=ec1c1c&text_color=ffffff&bg_color=131723" />
-</a>
+</a> -->
 
