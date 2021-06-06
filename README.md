@@ -36,11 +36,6 @@
 
 </br>
 </br>
-
-<a href="https://github.com/iampawan">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prahenstark&show_icons=true&icon_color=ec1c1c&text_color=ffffff&bg_color=131723" />
-</a>
-
 </br>
 
 <!-- 
@@ -51,4 +46,8 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
 
 <img align="left" src='https://github-readme-stats.vercel.app/api?username=prahenstark&show_icons=true&icon_color=ec1c1c&text_color=ffffff&bg_color=131723'>
+
+<a href="https://github.com/iampawan">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prahenstark&layout=compact&show_icons=true&icon_color=ec1c1c&text_color=ffffff&bg_color=131723" />
+</a>
 
