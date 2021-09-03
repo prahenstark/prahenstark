@@ -38,6 +38,7 @@
 </br>
 
 <a href="https://www.java.com/en/"><img align="left" alt="Java" height="30px" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" /></a>
+<a href="https://www.python.org/"><img align="left" alt="Firebase" height="30px" width="30px" src="https://image.flaticon.com/icons/png/512/919/919852.png" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="left" alt="HTML" height="30px" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img align="left" alt="CSS" height="30px" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="30px" width="30px" /> </a>
@@ -47,8 +48,8 @@
 <a href="https://firebase.google.com/"><img align="left" alt="Firebase" height="30px" width="30px" src="https://github.com/Saswat7101/Saswat7101/blob/main/firebase.png" /></a>
 
 </br>
-</br>
 
 <img align="left" src='https://github-readme-stats.vercel.app/api?username=prahenstark&show_icons=true&icon_color=ec1c1c&text_color=ffffff&bg_color=131723'>
+<br>
 
 
