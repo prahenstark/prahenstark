@@ -38,7 +38,7 @@
 </br>
 
 <img align="left" alt="Linked in" width="35px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
-<img align="left" alt="Linked in" width="35px" src="https://img.favpng.com/1/0/18/python-programming-language-computer-programming-computer-science-javascript-png-favpng-bhSNu7h0n8M9y1WqM9hwRrFAr.jpg" />
+<img align="left" alt="Linked in" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 </br>
 </br>
