@@ -36,20 +36,13 @@
 
 </br>
 </br>
+
+<img align="left" alt="Linked in" width="35px" src="https://image.flaticon.com/icons/png/512/226/226777.png" />
+<img align="left" alt="Linked in" width="35px" src="https://img.favpng.com/1/0/18/python-programming-language-computer-programming-computer-science-javascript-png-favpng-bhSNu7h0n8M9y1WqM9hwRrFAr.jpg" />
+
 </br>
-
-<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
-
-<!-- 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> -->
+</br>
 
 <img align="left" src='https://github-readme-stats.vercel.app/api?username=prahenstark&show_icons=true&icon_color=ec1c1c&text_color=ffffff&bg_color=131723'>
 
-<!-- <a href="https://github.com/iampawan">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prahenstark&layout=compact&show_icons=true&icon_color=ec1c1c&text_color=ffffff&bg_color=131723" />
-</a> -->
 
