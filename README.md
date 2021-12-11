@@ -49,6 +49,8 @@
 
 </br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prahenstark&show_icons=true&icon_color=ec1c1c&text_color=ffffff&bg_color=131723)](https://github.com/anuraghazra/github-readme-stats)
+
 <img align="left" src='https://github-readme-stats.vercel.app/api?username=prahenstark&show_icons=true&icon_color=ec1c1c&text_color=ffffff&bg_color=131723'>
 <br>
 
